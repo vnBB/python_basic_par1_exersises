@@ -22,6 +22,6 @@ number3 = get_integer * 3
 
 print(int(number1) + int(number2) + int(number3))
 
-#My third try
+# My third try
 get_integer = input("Enter an integer: ")
 print(int(get_integer) + int(get_integer * 2) + int (get_integer * 3))
