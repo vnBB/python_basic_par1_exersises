@@ -4,7 +4,7 @@
 
 # My first try
 number = input("Enter an integer: ")
-create_numbers = [0,1,2]
+create_numbers = [0, 1, 2]
 create_numbers[0] = number
 create_numbers[1] = number * 2
 create_numbers[2] = number * 3
@@ -24,4 +24,4 @@ print(int(number1) + int(number2) + int(number3))
 
 # My third try
 get_integer = input("Enter an integer: ")
-print(int(get_integer) + int(get_integer * 2) + int (get_integer * 3))
+print(int(get_integer) + int(get_integer * 2) + int(get_integer * 3))
